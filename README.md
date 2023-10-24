@@ -1,2 +1,2 @@
-# Faculdade
-Repositório destinado à trabalhos da faculdade
+# QS
+Repositório destinado à trabalhos de qualidade de software
